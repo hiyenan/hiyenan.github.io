@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on An&#39;s工作紀錄</title>
+    <link>https://hiyenan.github.io/categories/</link>
+    <description>Recent content in Categories on An&#39;s工作紀錄</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 12 Oct 2023 14:07:47 +0800</lastBuildDate><atom:link href="https://hiyenan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>生活紀錄</title>
+      <link>https://hiyenan.github.io/categories/%E7%94%9F%E6%B4%BB%E7%B4%80%E9%8C%84/</link>
+      <pubDate>Thu, 12 Oct 2023 14:07:47 +0800</pubDate>
+      
+      <guid>https://hiyenan.github.io/categories/%E7%94%9F%E6%B4%BB%E7%B4%80%E9%8C%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android And Gaming</title>
+      <link>https://hiyenan.github.io/categories/android-and-gaming/</link>
+      <pubDate>Fri, 06 Oct 2023 10:07:47 +0600</pubDate>
+      
+      <guid>https://hiyenan.github.io/categories/android-and-gaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go Language</title>
+      <link>https://hiyenan.github.io/categories/go-language/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://hiyenan.github.io/categories/go-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://hiyenan.github.io/categories/html/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://hiyenan.github.io/categories/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML &amp; CSS</title>
+      <link>https://hiyenan.github.io/categories/html-css/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://hiyenan.github.io/categories/html-css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Design</title>
+      <link>https://hiyenan.github.io/categories/web-design/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://hiyenan.github.io/categories/web-design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
