@@ -6,14 +6,20 @@
     <description>Recent content in Photos on An&#39;s工作紀錄</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 06 Oct 2023 10:07:47 +0600</lastBuildDate><atom:link href="https://hiyenan.github.io/tags/photos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Oct 2023 12:07:47 +0600</lastBuildDate><atom:link href="https://hiyenan.github.io/tags/photos/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://hiyenan.github.io/blog/post-1/</link>
-      <pubDate>Fri, 06 Oct 2023 10:07:47 +0600</pubDate>
+      <title>國教院短期維護專案/防火牆設置討論/404頁面</title>
+      <link>https://hiyenan.github.io/blog/post-1017/</link>
+      <pubDate>Tue, 17 Oct 2023 12:07:47 +0600</pubDate>
       
-      <guid>https://hiyenan.github.io/blog/post-1/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://hiyenan.github.io/blog/post-1017/</guid>
+      <description>記得剛來公司沒多久，業務小鐵接到了一個專案，告知開發主管專案內容後並請我幫忙協助。
+關於國教院圖書館入口網的頁面規劃，因這位客戶已使用過我們家服務，也在tickct系統查到好幾期的維護紀錄， 不知道這一次是有什麼需求，才會需要規劃404頁面引導或告知使用者呢?
+在此同時，非常有經驗的開發主管快速且善意地的在ticket留下作法，
+請PM確認靜態網頁企畫內容
+UI工程師進行設計內容確認
+與客戶確認無誤後再部屬主機上
+請客戶提供一台虛擬主機 (VM) 規格如下</description>
     </item>
     
     <item>
