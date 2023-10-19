@@ -1,63 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on An&#39;s工作紀錄</title>
+    <title>Categories on 安說</title>
     <link>https://hiyenan.github.io/categories/</link>
-    <description>Recent content in Categories on An&#39;s工作紀錄</description>
+    <description>Recent content in Categories on 安說</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 17 Oct 2023 12:07:47 +0600</lastBuildDate><atom:link href="https://hiyenan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>短期專案</title>
-      <link>https://hiyenan.github.io/categories/%E7%9F%AD%E6%9C%9F%E5%B0%88%E6%A1%88/</link>
+      <title>Product</title>
+      <link>https://hiyenan.github.io/categories/product/</link>
       <pubDate>Tue, 17 Oct 2023 12:07:47 +0600</pubDate>
       
-      <guid>https://hiyenan.github.io/categories/%E7%9F%AD%E6%9C%9F%E5%B0%88%E6%A1%88/</guid>
+      <guid>https://hiyenan.github.io/categories/product/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>生活紀錄</title>
-      <link>https://hiyenan.github.io/categories/%E7%94%9F%E6%B4%BB%E7%B4%80%E9%8C%84/</link>
+      <title>Work</title>
+      <link>https://hiyenan.github.io/categories/work/</link>
+      <pubDate>Tue, 17 Oct 2023 12:07:47 +0600</pubDate>
+      
+      <guid>https://hiyenan.github.io/categories/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://hiyenan.github.io/categories/life/</link>
       <pubDate>Thu, 12 Oct 2023 14:07:47 +0800</pubDate>
       
-      <guid>https://hiyenan.github.io/categories/%E7%94%9F%E6%B4%BB%E7%B4%80%E9%8C%84/</guid>
+      <guid>https://hiyenan.github.io/categories/life/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Go Language</title>
-      <link>https://hiyenan.github.io/categories/go-language/</link>
+      <title>uiux</title>
+      <link>https://hiyenan.github.io/categories/uiux/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://hiyenan.github.io/categories/go-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML</title>
-      <link>https://hiyenan.github.io/categories/html/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://hiyenan.github.io/categories/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML &amp; CSS</title>
-      <link>https://hiyenan.github.io/categories/html-css/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://hiyenan.github.io/categories/html-css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web Design</title>
-      <link>https://hiyenan.github.io/categories/web-design/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://hiyenan.github.io/categories/web-design/</guid>
+      <guid>https://hiyenan.github.io/categories/uiux/</guid>
       <description></description>
     </item>
     

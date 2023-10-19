@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product on 安說</title>
+    <link>https://hiyenan.github.io/categories/product/</link>
+    <description>Recent content in Product on 安說</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 17 Oct 2023 12:07:47 +0600</lastBuildDate><atom:link href="https://hiyenan.github.io/categories/product/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>中華資訊與科技教育學會/投審稿系統專案/前台</title>
+      <link>https://hiyenan.github.io/project/post-1018/</link>
+      <pubDate>Tue, 17 Oct 2023 12:07:47 +0600</pubDate>
+      
+      <guid>https://hiyenan.github.io/project/post-1018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
