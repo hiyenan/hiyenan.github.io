@@ -8,15 +8,16 @@
     <language>zh-tw</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://hiyenan.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>短期維護專案/需求分析/防火牆設置討論/404頁面</title>
-      <link>https://hiyenan.github.io/blog/post-1017/</link>
+      <title>專案管理/專案經理/何謂內部系統/內部系統的規劃重點</title>
+      <link>https://hiyenan.github.io/blog/post-1025/</link>
       <pubDate>Tue, 17 Oct 2023 12:07:47 +0600</pubDate>
       
-      <guid>https://hiyenan.github.io/blog/post-1017/</guid>
-      <description>記得剛來公司沒多久，業務接到了一個專案，告知開發主管專案內容後並請我幫忙協助。
-關於國教院圖書館入口網的頁面規劃，因這位客戶已使用過我們家服務，也在tickct系統查到好幾期的維護紀錄， 不知道這一次是有什麼需求，才會需要規劃404頁面引導或告知使用者呢?
-在此同時，非常有經驗的開發主管快速且善意地的在ticket留下做法，
-請PM確認靜態網頁企畫內容 UI工程師進行設計內容確認 與客戶確認無誤後再部屬主機上 請客戶提供一台虛擬主機 (VM) 規格如下 於是我便開心地和業務說：請給我客戶的聯繫方式~以下是接連的討論過程</description>
+      <guid>https://hiyenan.github.io/blog/post-1025/</guid>
+      <description>先來一個前言，但主要是討論內部系統在規劃上要注意的三大重點。
+PM這個名詞可以是產品管理(Product Manager) 也可以是專案管理 (Project Manager)的簡稱，比較好分辨的方式就是看你的工作內容是屬於哪一種，在對照兩者的定義，
+產品管理就是對產品做生命週期的階段管理，而專案管理是對專案做好開始與結束的管理。 在規模不大的公司，這兩種工作內容很有可能都會是同一個職位負責，就看工作內容佔比那一個居多。
+以我為例，應該是接近專案管理較多，目前經手過的專案，最終交付成品至需求方驗收即視為結束，若之後要在新增其他功能，會另起第二期的專案再開始討論需求。
+即便如此，多半還是要負責專案中的項目，然而產品的種類很多，像是最近被指派做內部的報名系統，主要是給行銷部門的員工使用，透過這系統可以收集到使用者的報名資料，來滿足特定的業務需求和流程。</description>
     </item>
     
     <item>
@@ -30,24 +31,6 @@
 建案名稱：隆大建設XXX (屋主說不能講XD)，室內格局約22坪，標準的三房兩廳兩衛+兩個前後陽台
 從現有格局思考，決定打掉一個房間 指引 依生活模式決定電視牆應該在哪一面 指引 你好
 你好咩</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://hiyenan.github.io/blog/post-2/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://hiyenan.github.io/blog/post-2/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://hiyenan.github.io/blog/post-6/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://hiyenan.github.io/blog/post-6/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
   </channel>

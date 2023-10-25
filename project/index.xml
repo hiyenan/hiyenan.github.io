@@ -13,7 +13,20 @@
       <pubDate>Tue, 17 Oct 2023 12:07:47 +0600</pubDate>
       
       <guid>https://hiyenan.github.io/project/post-1018/</guid>
-      <description></description>
+      <description>此專案主要製作兩種投審稿流程，一為研討會論文沿用原有流程再優化。
+另一為期刊論文，由原本紙本作業轉為線上進行，為確保審稿過程符合規範，配合學會規劃出一套系統化流程，不僅改善人工審查效率，也能保有研究誠信。</description>
+    </item>
+    
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://hiyenan.github.io/project/post-1017/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://hiyenan.github.io/project/post-1017/</guid>
+      <description>記得剛來公司沒多久，業務接到了一個專案，告知開發主管專案內容後並請我幫忙協助。
+關於國教院圖書館入口網的頁面規劃，因這位客戶已使用過我們家服務，也在tickct系統查到好幾期的維護紀錄， 不知道這一次是有什麼需求，才會需要規劃404頁面引導或告知使用者呢?
+在此同時，非常有經驗的開發主管快速且善意地的在ticket留下做法
+請PM確認靜態網頁企畫內容 UI工程師進行設計內容確認 與客戶確認無誤後再部屬主機上 請客戶提供一台虛擬主機 (VM) 規格如下 於是我便開心地和業務說：請給我客戶的聯繫方式~以下是接連的討論過程</description>
     </item>
     
     <item>
@@ -22,15 +35,6 @@
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
       <guid>https://hiyenan.github.io/project/post-2/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://hiyenan.github.io/project/post-6/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://hiyenan.github.io/project/post-6/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
