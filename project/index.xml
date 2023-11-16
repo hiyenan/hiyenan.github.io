@@ -8,9 +8,9 @@
     <language>zh-tw</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://hiyenan.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>中華資訊與科技教育學會/投審稿系統專案/前台</title>
+      <title>中華資訊與科技教育學會/投審稿系統專案/從0-1開發</title>
       <link>https://hiyenan.github.io/project/post-1018/</link>
-      <pubDate>Tue, 17 Oct 2023 12:07:47 +0600</pubDate>
+      <pubDate>Fri, 10 Nov 2023 12:07:47 +0600</pubDate>
       
       <guid>https://hiyenan.github.io/project/post-1018/</guid>
       <description>此專案主要製作兩種投審稿流程，一為研討會論文沿用原有流程再優化。
@@ -18,24 +18,24 @@
     </item>
     
     <item>
-      <title>尋找黑捷客UI/UX設計賽-輕鬆捷遊</title>
-      <link>https://hiyenan.github.io/project/post-2/</link>
-      <pubDate>Thu, 29 Jun 2023 09:57:47 +0600</pubDate>
-      
-      <guid>https://hiyenan.github.io/project/post-2/</guid>
-      <description>專案簡述 Youtube video </description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
+      <title>國家教育研究院/圖書館入口網/維護案</title>
       <link>https://hiyenan.github.io/project/post-1017/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <pubDate>Sun, 29 Oct 2023 10:07:47 +0600</pubDate>
       
       <guid>https://hiyenan.github.io/project/post-1017/</guid>
       <description>記得剛來公司沒多久，業務接到了一個專案，告知開發主管專案內容後並請我幫忙協助。
 關於國教院圖書館入口網的頁面規劃，因這位客戶已使用過我們家服務，也在tickct系統查到好幾期的維護紀錄， 不知道這一次是有什麼需求，才會需要規劃404頁面引導或告知使用者呢?
 在此同時，非常有經驗的開發主管快速且善意地的在ticket留下做法
-請PM確認靜態網頁企畫內容 UI工程師進行設計內容確認 與客戶確認無誤後再部屬主機上 請客戶提供一台虛擬主機 (VM) 規格如下 於是我便開心地和業務說：請給我客戶的聯繫方式~以下是接連的討論過程</description>
+請PM確認靜態網頁企畫內容 UI工程師進行設計內容確認 與客戶確認無誤後再部屬主機上 請客戶提供一台虛擬主機 (VM) 規格 (看起來很詳細又簡單XD)</description>
+    </item>
+    
+    <item>
+      <title>台北捷運/尋找黑捷客UI/UX設計賽-輕鬆捷遊/UIUX APP練習</title>
+      <link>https://hiyenan.github.io/project/post-1115/</link>
+      <pubDate>Thu, 29 Jun 2023 09:57:47 +0600</pubDate>
+      
+      <guid>https://hiyenan.github.io/project/post-1115/</guid>
+      <description>專案簡述 使用者研究與資料分析 建立資訊架構 收斂資訊並定義需求 </description>
     </item>
     
   </channel>

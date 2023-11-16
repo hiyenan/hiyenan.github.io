@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>UIUX on 安說</title>
+    <title>uiux on 安說</title>
     <link>https://hiyenan.github.io/categories/uiux/</link>
-    <description>Recent content in UIUX on 安說</description>
+    <description>Recent content in uiux on 安說</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 29 Jun 2023 09:57:47 +0600</lastBuildDate><atom:link href="https://hiyenan.github.io/categories/uiux/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>尋找黑捷客UI/UX設計賽-輕鬆捷遊</title>
-      <link>https://hiyenan.github.io/project/post-2/</link>
+      <title>台北捷運/尋找黑捷客UI/UX設計賽-輕鬆捷遊/UIUX APP練習</title>
+      <link>https://hiyenan.github.io/project/post-1115/</link>
       <pubDate>Thu, 29 Jun 2023 09:57:47 +0600</pubDate>
       
-      <guid>https://hiyenan.github.io/project/post-2/</guid>
-      <description>專案簡述 Youtube video </description>
+      <guid>https://hiyenan.github.io/project/post-1115/</guid>
+      <description>專案簡述 使用者研究與資料分析 建立資訊架構 收斂資訊並定義需求 </description>
     </item>
     
   </channel>
