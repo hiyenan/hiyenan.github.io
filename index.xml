@@ -6,7 +6,20 @@
     <description>Recent content on 安說</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 10 Nov 2023 12:07:47 +0600</lastBuildDate><atom:link href="https://hiyenan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Dec 2023 16:07:47 +0600</lastBuildDate><atom:link href="https://hiyenan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>專案管理/產品管理/何謂內部系統/內部系統的規劃重點</title>
+      <link>https://hiyenan.github.io/blog/post-1220/</link>
+      <pubDate>Wed, 20 Dec 2023 16:07:47 +0600</pubDate>
+      
+      <guid>https://hiyenan.github.io/blog/post-1220/</guid>
+      <description>差不多到要轉換工作的時間了，開始思考下一階段的工作職涯發展。
+當初找工作的時候，以為PM的工作大概就是完整走完一個projejct，這一個結束能為公司賺錢，就這麼簡單，沒想這麼多，
+但過了兩年的現在，有點後悔當初沒有survey清楚，又或是早一點離開現職，大概是知道越多越覺得自己不足吧😅😅
+PM這個名詞可以是產品管理 (Product Manager) 也可以是專案管理 (Project Manager)的簡稱，比較好分辨的方式就是看你的工作內容是屬於哪一種，在對照兩者的定義，
+產品管理就是對產品做生命週期的階段管理，而專案管理是對專案做好開始與結束的管理。</description>
+    </item>
+    
     <item>
       <title>中華資訊與科技教育學會/投審稿系統專案/從0-1開發</title>
       <link>https://hiyenan.github.io/project/post-1018/</link>
@@ -14,7 +27,8 @@
       
       <guid>https://hiyenan.github.io/project/post-1018/</guid>
       <description>此專案主要製作兩種投審稿流程，一為研討會論文沿用原有流程再優化。
-另一為期刊論文，由原本紙本作業轉為線上進行，為確保審稿過程符合規範，配合學會規劃出一套系統化流程，不僅改善人工審查效率，也能保有研究誠信。</description>
+另一為期刊論文，由原本紙本作業轉為線上進行，為確保審稿過程符合規範，配合學會規劃出一套系統化流程，不僅改善人工審查效率，也能保有研究誠信。
+專案作品 Web前台：https://submission.cacet.org/ 管理後台：https://submission.cacet.org/admin</description>
     </item>
     
     <item>
@@ -26,7 +40,7 @@
       <description>記得剛來公司沒多久，業務接到了一個專案，告知開發主管專案內容後並請我幫忙協助。
 關於國教院圖書館入口網的404頁面規劃，這位客戶已使用過我們家服務，也在tickct系統查到好幾期的維護紀錄， 不知道這一次是有什麼需求，才會需要規劃404頁面引導或告知使用者，就在這個時候，
 非常有經驗的開發主管快速且善意地的在ticket留下做法：
-請負責的PM確認404頁面的企劃內容 UI工程師進行內容設計 與客戶確認無誤後，再部屬至主機上 請客戶提供一台虛擬主機 (VM) 的規格 (看起來很詳細又簡單🤣賺到)</description>
+與客戶確認404頁面的企劃內容 UI工程師進行內容設計 與客戶確認無誤後，再部屬至主機上 請客戶提供一台虛擬主機 (VM) 的規格 (看起來很詳細又簡單🤣賺到)</description>
     </item>
     
     <item>
@@ -39,7 +53,7 @@
 PM這個名詞可以是產品管理(Product Manager) 也可以是專案管理 (Project Manager)的簡稱，比較好分辨的方式就是看你的工作內容是屬於哪一種，在對照兩者的定義，
 產品管理就是對產品做生命週期的階段管理，而專案管理是對專案做好開始與結束的管理。 在規模不大的公司，這兩種工作內容很有可能都會是同一個職位負責，就看工作內容佔比那一個居多。
 以我為例，應該是接近專案管理較多，目前經手過的專案，最終交付成品至需求方驗收即視為結束，若之後要在新增其他功能，會另起第二期的專案再開始討論需求。
-即便如此，多半還是要負責專案中的項目，然而產品的種類很多，像是最近被指派做內部的報名系統，主要是給行銷部門的員工使用，透過這系統可以收集到使用者的報名資料，來滿足特定的業務需求和流程。</description>
+可以歸納出專案經理的工作內容通常包括：</description>
     </item>
     
     <item>
@@ -48,7 +62,7 @@ PM這個名詞可以是產品管理(Product Manager) 也可以是專案管理 (P
       <pubDate>Thu, 12 Oct 2023 14:07:47 +0800</pubDate>
       
       <guid>https://hiyenan.github.io/blog/post-1015/</guid>
-      <description>工作中的心理層面思考 1️⃣ 同理問題，可以建立良好的rapport(和睦關係)
+      <description>工作中的同理層面思考 1️⃣ 同理問題，可以建立良好的rapport(和睦關係)
 你對這個情況感覺如何？ 能再跟我多說，這會如何影響你們部門或工作嗎？ 我可以怎麼做來幫助你們？(How can I help？) 請問你現在有什麼立即需求呢？ 我們可以如何合作，找出一個符合你需求的解決方案嗎？ ⇒ 當你在問以上這些問題時，可以讓一個團隊或是對方更能夠分享對方的感受，從這感受中做更深入的探討。</description>
     </item>
     
