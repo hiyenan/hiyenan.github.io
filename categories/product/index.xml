@@ -13,15 +13,18 @@
       <pubDate>Fri, 10 Nov 2023 12:07:47 +0600</pubDate>
       
       <guid>https://hiyenan.github.io/project/post-1018/</guid>
-      <description>此專案主要製作兩種投審稿流程，一為研討會論文沿用原有流程再優化。
-另一為期刊論文，由原本紙本作業轉為線上進行，為確保審稿過程符合規範，配合學會規劃出一套系統化流程，不僅改善人工審查效率，也能保有研究誠信。
-專案作品 Web前台：https://submission.cacet.org/ 管理後台：https://submission.cacet.org/admin</description>
+      <description>專案介紹： 核心目標是透過投審稿系統實現「研討會論文」與「期刊論文」的兩種不同投審稿流程。
+角色與職責：
+主要成果：
+將原紙本作業轉為線上進行，確保審稿過程符合規範，配合需求方規劃出一套系統化流程，不僅改善人工審查效率，也能保有研究誠信。
+時間管理： 專案作品： Web前台：https://submission.cacet.org/
+管理後台：https://submission.cacet.org/admin</description>
     </item>
     
     <item>
       <title>康軒文教/社會科主題教學資源網/從0-1開發</title>
       <link>https://hiyenan.github.io/project/post-1207/</link>
-      <pubDate>Thu, 21 Apr 2022 12:07:47 +0600</pubDate>
+      <pubDate>Sun, 29 Oct 2023 12:07:47 +0600</pubDate>
       
       <guid>https://hiyenan.github.io/project/post-1207/</guid>
       <description>本專案的主要目標是為康軒文教建置一個社會科主題教學資源網，該網站為老師備課用的教材，老師可以更靈活地運用教材，為學生帶來更豐富的學習體驗。
