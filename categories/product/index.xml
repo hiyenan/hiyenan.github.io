@@ -6,7 +6,19 @@
     <description>Recent content in Product on 安說</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 10 Nov 2023 12:07:47 +0600</lastBuildDate><atom:link href="https://hiyenan.github.io/categories/product/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Mar 2024 12:07:47 +0600</lastBuildDate><atom:link href="https://hiyenan.github.io/categories/product/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>童綜合醫院/醫院教案資源庫/客製化專案</title>
+      <link>https://hiyenan.github.io/project/post-0301/</link>
+      <pubDate>Fri, 01 Mar 2024 12:07:47 +0600</pubDate>
+      
+      <guid>https://hiyenan.github.io/project/post-0301/</guid>
+      <description>隨著心臟疾病的診斷及治療日益新進，許多先天性心臟畸形及結構性異常、罕見、或因診治困難，需要具備專門知識、技術及經驗等。 因此，本專案的主要目標是建置一個心臟疾病案例的教材網站，整合黃碧桃執行長近五十年的診治案例，提供給有需要的醫師與相關醫事人員參閱學習。
+角色與職責
+釐清功能需求、撰寫網站製作需求文件。 串聯設計與前後工程師討論功能。 功能測試、進行內外部教育訓練。 協助客戶資料上架與建立網站的完整性。 挑戰點
+客戶在設計面提出多次修改，除了修改，在確認時間上，容易導致專案拖延。因有時溝通的窗口不同，主觀的美感意見或想法改變時，也難與上一次整合。 需後製與上架的資料繁多，需調動人力處理這一部分。 解決方案</description>
+    </item>
+    
     <item>
       <title>中華資訊與科技教育學會/投審稿系統/客製化專案</title>
       <link>https://hiyenan.github.io/project/post-1018/</link>
